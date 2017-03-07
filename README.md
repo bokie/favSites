@@ -1,18 +1,21 @@
-**-- 常用网站 --**
 
-2017/03/06更新
+<p align="center" style="font-family: 微软雅黑;font-size: 18px;color: #3e3e3e;">常用的一些网站</p>
 
-**UED**
 ----------
 
 
--This is [an example](http://example.com/ "Title") inline link.
+
+<p align="right" style="font-family: 微软雅黑;font-size: 18px;color: #3e3e3e;">> UED团队</p>
+
+##
+
+- [网易UEDC](http://uedc.163.com/)
+
+- [网易UEDC](http://uedc.163.com/)
+
+- [网易UEDC](http://uedc.163.com/)
 
 
-dog | bird | cat
-----|------|----
-foo | foo  | foo
-bar | bar  | bar
-baz | baz  | baz
+##WEB开发
 
 	
