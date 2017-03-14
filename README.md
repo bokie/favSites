@@ -23,6 +23,9 @@
 - [ARK Design](http://www.arkdesign.cn/)
 - [HOLY荷勒](http://www.inholy.com/)
 - [唐硕](http://www.tangux.com/)
+- [eico design](http://eicodesign.com/)
+- [frog](http://www.frogdesign.cn/)
+- [SKYUI](http://www.skyui.com/)
 
 .
 
