@@ -26,6 +26,8 @@
 - [eico design](http://eicodesign.com/)
 - [frog](http://www.frogdesign.cn/)
 - [SKYUI](http://www.skyui.com/)
+- [Bri体验科技](http://brixd.com/)
+- [EID UXDesign](http://www.eidcenter.com/)
 
 .
 
